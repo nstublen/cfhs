@@ -6,4 +6,3 @@ permalink: /art-from-the-author/
 <img class="author-art"
      alt="Digital" title="Digital"
      src="/images/Liz-1Digital.jpg" />
-<div class="author-art-caption">Digital</div>
