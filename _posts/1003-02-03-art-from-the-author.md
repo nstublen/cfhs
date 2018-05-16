@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: photo
 permalink: /art-from-the-author/
 ---
 
-<img class="author-art"
-     alt="Digital" title="Digital"
-     src="/images/Liz-3Digital.jpg" />
+<div class="author-art">
+    <img alt="Digital" title="Digital"
+         src="/images/Liz-3Digital.jpg" />
+</div>

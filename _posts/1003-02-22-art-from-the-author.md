@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: photo
 permalink: /art-from-the-author/
 ---
 
-<img class="author-art"
-     alt="Film" title="Film"
-     src="/images/Liz-22Film.jpg" />
+<div class="author-art">
+    <img alt="Film" title="Film"
+         src="/images/Liz-22Film.jpg" />
+</div>
