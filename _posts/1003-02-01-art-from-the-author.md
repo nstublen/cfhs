@@ -3,4 +3,6 @@ layout: post
 permalink: /art-from-the-author/
 ---
 
-#### Photo 1
+<img class="author-art"
+     alt="Digital" title="Digital"
+     src="/images/Liz-1Digital.jpg" />

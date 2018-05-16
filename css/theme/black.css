@@ -234,6 +234,10 @@ body {
   border: 4px solid #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
+.reveal section img.author-art {
+    height: 90vh;
+}
+
 .reveal section img.plain {
   border: 0;
   box-shadow: none; }
