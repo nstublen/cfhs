@@ -298,11 +298,17 @@ body {
 
 .reveal section div.author-art {
   height: 80vh;
+  /*width: 80vw;*/
+
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .reveal section div.author-art img {
@@ -310,6 +316,8 @@ body {
   height: 90%;
   text-align: center;
   width: auto;
+  max-height: inherit;
+  max-width: inherit;
 }
 
 .reveal section p.citation {
